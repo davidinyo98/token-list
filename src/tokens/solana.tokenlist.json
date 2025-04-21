@@ -59,6 +59,15 @@
   "tokens": [
     {
       "chainId": 101,
+      "address": "BGeToLibNFUmK1BP6ivQKim43CXgH3xUv8T1nVKY9Goq",
+      "symbol": "speedrec",
+      "name": "World Record Fastest $100M",
+      "decimals": 9,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreie24yn6kinqgee5zpbr3shqim5tpqdionlrw2qhgh2kfxgznhcqd4",
+      "tags": ["memecoin", "community"]
+    } 
+    {
+      "chainId": 101,
       "address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91",
       "symbol": "EV1",
       "name": "EveryOne Coin",
